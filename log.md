@@ -26,3 +26,9 @@ Enjoyed working through the JS project today with the Udemy course. Need to do s
 **Link to work:** 
 
 https://github.com/justin2268/Dicee-Challenge---Starting-Files-2
+
+### Day 3: May 26th, 2021
+**Today's Progress**:
+Callbacks were part of today's lessons and as I understand it they are a function which is passed into another function which enables the function to be called from outside of the function wthin which it is called, this allows for asyncronous programming
+ 
+**Thoughts:** 
