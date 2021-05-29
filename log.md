@@ -74,3 +74,17 @@ Completed a calculator that is all run in the back end with JS, express.
 ### API
 API's have endpoints which are a HTTP request 
 Paths and Parameters help filter the results of the API resulting in a different url for the API's endpoint
+
+http://api.openweathermap.org/data/2.5/weather?id=2147714&appid=6a39b94dc021b31125a89c27a34e3237&units=metric
+
+const express = require("express");
+
+const app = express();
+
+app.get("/", function (req, res) {
+    res.send("hello")
+})
+app.listen(3000, function () {
+    console.log("Server started at port 3000");
+})
+
