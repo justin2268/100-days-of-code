@@ -88,3 +88,24 @@ app.listen(3000, function () {
     console.log("Server started at port 3000");
 })
 
+## Day 7: May 30th, 2021
+**Today's Progress**:
+Further work on API's. 
+
+app.post using bodyparser 
+
+## Day 8: May 31th, 2021
+**Today's Progress**:
+Using Heroku to create a live website
+Make sure the project has a Procfile >> web: node app.js
+Then use heroku create
+git push heroku master
+
+## Day 9: June 1st, 2021
+**Today's Progress**:
+Set up a new development evironment on another laptop as practice.
+Set up a node server using express
+
+.gitignore # to comment
+list files that need to be ignored including their extensions
+*.txt removes all .txt files
